@@ -1,10 +1,10 @@
 # Title of Project: VOICE SENTIMENTAL ANALYSIS
 
 ## Team Members:
-1. RAGHAV GOEL
-2. PRIYANSHU VISHWAKARMA
-3. HARSHIT SANGAL
-4. JITESH KUMAR
+1. RAGHAV GOEL                      (2100290100125)
+2. PRIYANSHU VISHWAKARMA            (2100290100122)
+4. HARSHIT SANGAL                   (2100290100071)
+5. JITESH KUMAR                     (2100290100076)
    
 
 ## Steps to Execute: Voice Sentimental Analysis
