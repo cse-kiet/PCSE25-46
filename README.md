@@ -10,10 +10,11 @@
 ## Steps to Execute: Voice Sentimental Analysis
 1. Setup Environment
 Open the project in Anaconda, Jupyter Lab, or Jupyter Notebook.
+
 2. Install Dependencies
 Run the following to install required libraries:
 
-pip install pandas numpy librosa tensorflow scikit-learn matplotlib sounddevice scipy
+   pip install pandas numpy librosa tensorflow scikit-learn matplotlib sounddevice scipy
 
 3. Download Dataset
 Place the CSV dataset in the same folder as the notebook to train or re-train the model.
@@ -21,13 +22,13 @@ Place the CSV dataset in the same folder as the notebook to train or re-train th
 4. Run the Notebook
 Execute all cells in the provided Jupyter notebook to:
 
-  i.   Load and preprocess data
+     i.   Load and preprocess data
 
- ii.   Extract features
+    ii.   Extract features
 
- iii.  Train the model
+    iii.  Train the model
 
- iv.   Save/load the trained model
+    iv.   Save/load the trained model
 
 5. Record Your Voice
 Run the audio recorder script or its corresponding cell to record your voice (e.g., 3–5 seconds). It saves the audio as a .wav file.
